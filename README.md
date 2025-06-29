@@ -92,3 +92,22 @@ For the same Booking Management Project, examples include:
 
 > 🧠 Functional requirements describe what the system should do.  
 > 🛡️ Non-functional requirements define how the system should behave.
+
+## 🎯 Use Case Diagrams
+
+**Use Case Diagrams** are visual representations that show the interactions between users (actors) and the system to achieve specific goals (use cases). They help stakeholders understand system functionality at a high level and clarify requirements before development begins.
+
+### Benefits of Use Case Diagrams:
+- Provide a clear and simple visualization of system functionality.
+- Facilitate communication between developers, clients, and users.
+- Help identify actors (users or external systems) and their interactions with the system.
+- Serve as a foundation for detailed requirements and system design.
+
+### Use Case Diagram for the Booking Management System
+
+The diagram below illustrates the main actors and their key use cases in the booking system:
+
+- **Actors:** Customer, Admin, Payment Gateway
+- **Use Cases:** Register/Login, Search Bookings, Make Booking, Cancel Booking, Manage Users, Process Payment, Send Notifications
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
