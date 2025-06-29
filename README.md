@@ -44,3 +44,22 @@ Well-defined and validated requirements reduce the chances of building incorrect
 ### 3. 📈 Improves Product Quality and User Satisfaction
 By gathering and analyzing real user needs and business goals, requirement analysis ensures that the end product **solves the right problem** and provides value to its users. This results in higher quality software and **greater user satisfaction**.
 
+## 🔧 Key Activities in Requirement Analysis
+
+Requirement Analysis involves a series of structured activities that help define and manage software requirements effectively. Below are the five key activities:
+
+- **Requirement Gathering**  
+  Collecting initial input from stakeholders, customers, end users, and subject matter experts to understand their needs and expectations for the software system.
+
+- **Requirement Elicitation**  
+  Using techniques such as interviews, questionnaires, workshops, brainstorming, and observations to draw out detailed and accurate requirements from stakeholders.
+
+- **Requirement Documentation**  
+  Writing down the collected requirements in a structured format (like Software Requirements Specification - SRS) that can be clearly understood by both technical and non-technical teams.
+
+- **Requirement Analysis and Modeling**  
+  Organizing and analyzing the gathered requirements to identify conflicts, overlaps, or gaps. This also involves creating models like use cases, process flows, and data diagrams to visualize the requirements.
+
+- **Requirement Validation**  
+  Verifying that the documented requirements are complete, clear, feasible, and aligned with business objectives. This often includes reviews, walkthroughs, and feedback sessions with stakeholders.
+
