@@ -63,3 +63,32 @@ Requirement Analysis involves a series of structured activities that help define
 - **Requirement Validation**  
   Verifying that the documented requirements are complete, clear, feasible, and aligned with business objectives. This often includes reviews, walkthroughs, and feedback sessions with stakeholders.
 
+  ## 📚 Types of Requirements
+
+In software development, requirements are generally categorized into **Functional** and **Non-functional** requirements. Both are essential to delivering a successful and complete system.
+
+### ✅ Functional Requirements
+
+Functional requirements define **what the system should do**—they describe specific behaviors, features, and interactions.
+
+For a **Booking Management Project**, examples include:
+
+- Users should be able to **create an account and log in** using their email and password.
+- Customers can **search for available bookings** based on date, time, and location.
+- The system must allow users to **create, view, update, and cancel bookings**.
+- Admin users should be able to **view all bookings**, filter them by status (confirmed, pending, canceled), and manage user accounts.
+- Users should receive **email or SMS notifications** upon successful booking or cancellation.
+
+### ⚙️ Non-functional Requirements
+
+Non-functional requirements describe **how the system performs** its functions. These are quality attributes such as performance, usability, security, and reliability.
+For the same Booking Management Project, examples include:
+
+- The system should load **search results within 2 seconds**.
+- The platform should support **up to 10,000 concurrent users** without crashing.
+- All user data must be **encrypted at rest and in transit** to ensure data security.
+- The interface should be **mobile-responsive** and usable on all modern browsers.
+- The system must have **99.9% uptime** during business hours.
+
+> 🧠 Functional requirements describe what the system should do.  
+> 🛡️ Non-functional requirements define how the system should behave.
